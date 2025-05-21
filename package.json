@@ -1,5 +1,5 @@
 {
-  "name": "@pbe/react-yandex-maps",
+  "name": "@viczem/react-yandex-maps",
   "version": "1.2.5",
   "description": "Yandex.Maps API bindings for React",
   "typings": "typings/index.d.ts",
@@ -75,10 +75,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/R1ZEN/react-yandex-maps.git"
+    "url": "git+https://github.com/viczem/react-yandex-maps.git"
   },
   "bugs": {
-    "url": "https://github.com/R1ZEN/react-yandex-maps/issues"
+    "url": "https://github.com/viczem/react-yandex-maps/issues"
   },
   "directories": {
     "doc": "docs"
